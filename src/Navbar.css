@@ -1,0 +1,33 @@
+.nav1 {
+    color: black;
+    background-color: rgb(179, 104, 179);
+    padding: 2%;
+    top: 0;
+    width: 100%;
+  }
+
+.navi {
+    margin: 1%;
+    color:black;
+}
+
+
+.formulario {
+  display: flex; flex-direction: column;
+}
+
+input {
+  margin: 1%;
+  width: 60%;
+  align-self: center;
+}
+
+.descripcion{
+  height: 10em;
+}
+
+button {
+  width: 8em;
+  background-color:rgb(177, 117, 177);
+  align-self: center;
+}
